@@ -1,0 +1,5 @@
+document.write("Hello World 3.0")
+console.log("Welcome to AP")
+console.warn("This is warning")                                                                                                                                                                                                                                                                                                                                                                                                           
+console.error("hello world 4.0 Not Working")
+console.info("Hey....")
